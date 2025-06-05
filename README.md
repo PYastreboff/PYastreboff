@@ -18,5 +18,5 @@ I'm Peter, a freelance developer and website creator with a deep love for Python
 
 🗣️ Motto: **"Code with purpose, design with heart."**
 
-Thanks for dropping by — feel free to check out my work at [My Portfolio](https://pyastreboff.github.io/portfolio/)!
+Thanks for dropping by — feel free to check out my work!
 
